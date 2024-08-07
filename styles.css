@@ -1,0 +1,20 @@
+* {
+    color: black;
+    font-family: Verdana, Calibri;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button_style {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    height: 40px;
+    width: auto;
+    padding: 10px;
+}
