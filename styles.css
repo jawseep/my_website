@@ -3,6 +3,30 @@
     font-family: Verdana, Calibri;
 }
 
+.quicklink {
+    display: flex;
+    background-color: #010131;
+    font-weight: bold;
+    width: auto;
+    height: auto;
+    justify-content: flex-end;
+    
+}
+
+.socials {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    background-color: #010131;
+    justify-content: space-between;
+    width: auto;
+    height: 2rem;
+}
+
+.my_github {
+    justify-content: space-around;
+}
+
 .button {
     display: flex;
     align-items: center;
@@ -10,7 +34,7 @@
 }
 
 .button_style {
-    background-color: black;
+    background-color: #010131;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
