@@ -1,6 +1,14 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
 * {
     color: black;
     font-family: Verdana, Calibri;
+    margin: 0;
+    padding: 0;
 }
 
 .quicklink {
